@@ -3,7 +3,7 @@ Work organization
 
 * What kind of contract do you offer? [B2B, steady job]
 * Are working hours flexible?
-* Do you relay on overtime?
+* Do you rely on overtime?
 * Do you pay extra for overtime?
 * Is home office possible? When?
 * What perks do you offer? [extra health care, insurance, etc.]
